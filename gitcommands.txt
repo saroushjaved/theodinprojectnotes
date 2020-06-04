@@ -1,0 +1,6 @@
+Basic Commands Uses 
+
+1- To Clone 
+	git clone git@github.com:username/respositoryname 
+
+
